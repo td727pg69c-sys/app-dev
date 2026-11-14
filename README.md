@@ -1,4 +1,5 @@
 # app-dev
+my first respository
 # 🎬 My Favorite Series: True Beauty
 ## 📖 About the Drama
 > *"True beauty is not about how you look, but about who you are inside."*
